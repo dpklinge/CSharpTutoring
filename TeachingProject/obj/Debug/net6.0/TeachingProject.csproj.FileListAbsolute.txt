@@ -1,0 +1,15 @@
+C:\Users\Daniel\source\repos\TeachingProject\TeachingProject\bin\Debug\net6.0\TeachingProject.exe
+C:\Users\Daniel\source\repos\TeachingProject\TeachingProject\bin\Debug\net6.0\TeachingProject.deps.json
+C:\Users\Daniel\source\repos\TeachingProject\TeachingProject\bin\Debug\net6.0\TeachingProject.runtimeconfig.json
+C:\Users\Daniel\source\repos\TeachingProject\TeachingProject\bin\Debug\net6.0\TeachingProject.dll
+C:\Users\Daniel\source\repos\TeachingProject\TeachingProject\bin\Debug\net6.0\TeachingProject.pdb
+C:\Users\Daniel\source\repos\TeachingProject\TeachingProject\obj\Debug\net6.0\TeachingProject.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\TeachingProject\TeachingProject\obj\Debug\net6.0\TeachingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\TeachingProject\TeachingProject\obj\Debug\net6.0\TeachingProject.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\TeachingProject\TeachingProject\obj\Debug\net6.0\TeachingProject.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\TeachingProject\TeachingProject\obj\Debug\net6.0\TeachingProject.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\TeachingProject\TeachingProject\obj\Debug\net6.0\TeachingProject.dll
+C:\Users\Daniel\source\repos\TeachingProject\TeachingProject\obj\Debug\net6.0\refint\TeachingProject.dll
+C:\Users\Daniel\source\repos\TeachingProject\TeachingProject\obj\Debug\net6.0\TeachingProject.pdb
+C:\Users\Daniel\source\repos\TeachingProject\TeachingProject\obj\Debug\net6.0\TeachingProject.genruntimeconfig.cache
+C:\Users\Daniel\source\repos\TeachingProject\TeachingProject\obj\Debug\net6.0\ref\TeachingProject.dll
